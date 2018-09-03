@@ -1,0 +1,1 @@
+web: gunicorn labot:app --log-file=-
